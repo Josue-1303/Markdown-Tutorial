@@ -14,6 +14,8 @@ Now, you're going to want to crack the eggs in such a way that you don't make a 
 If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
-Basically, take the same guidance as above: don't be messy, but if you are, clean it up!  
+Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+ 
 [**_BACK_**](index.md)
+
 
