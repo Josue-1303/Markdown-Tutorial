@@ -2,7 +2,7 @@
 
 #### Exercise 1
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
 #### Exercise 2
 
@@ -24,5 +24,6 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: https://www.stumbleupon.com
 
 [**_BACK_**](index.md)
+
 
 
