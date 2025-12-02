@@ -1,6 +1,6 @@
 ﻿## Josué web exercise
 
-This is my Tools of Software Develpment project.
+This is my Tools of Software Development project.
 
 #### Markdown Tutorial Parts
 
@@ -11,3 +11,4 @@ This is my Tools of Software Develpment project.
 5. [Blockquotes](Part5.md)
 6. [Lists](Part6.md)
 7. [Paragraphs](Part7.md)
+
