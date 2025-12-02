@@ -10,8 +10,7 @@
 
 #### Exercise 3
 
-#### The Latest News from 
-[the BBC](https://www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 #### Exercise 4
 
@@ -24,6 +23,7 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: https://www.stumbleupon.com
 
 [**_BACK_**](index.md)
+
 
 
 
