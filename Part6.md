@@ -28,7 +28,8 @@
   * An opera singer
   * Has white hair
   * Is very famous
-### Exercise 5
+  
+#### Exercise 5
 
 1. Cut the cheese
 
@@ -41,3 +42,4 @@
   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
   [**_BACK_**](index.md)
+
